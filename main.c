@@ -26,6 +26,7 @@ int main()
         else
             printf("Não existe divisão por 0");
     }
-    printf("programa atualizado");
+    printf("programa atualizado\n");
+    printf("versão 1.2");
     return 0;
 }
