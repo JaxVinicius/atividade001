@@ -26,5 +26,6 @@ int main()
         else
             printf("Não existe divisão por 0");
     }
+    printf("programa atualizado");
     return 0;
 }
